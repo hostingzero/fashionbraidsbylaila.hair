@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+sitemap: https://fashionbraidsbylaila.hair/sitemap1.xml

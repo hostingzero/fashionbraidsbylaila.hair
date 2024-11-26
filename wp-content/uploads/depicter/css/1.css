@@ -1,0 +1,57 @@
+
+.depicter-revert .depicter-1-element-28{
+	border-width:2px;
+	border-style:solid;
+	border-color:#AAAAAA;
+	border-radius:50% 50% 50% 50%;
+}
+.depicter-1-element-28 .depicter-symbol-container{
+	fill:#000000;
+}
+.depicter-revert .depicter-1-element-29{
+	border-width:2px;
+	border-style:solid;
+	border-color:#AAAAAA;
+	border-radius:50% 50% 50% 50%;
+}
+.depicter-1-element-29 .depicter-symbol-container{
+	fill:#000000;
+}
+.depicter-revert .depicter-1-section-21 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-section-23 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-section-26 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+
+/***** Tablet *****/
+@media screen and (max-width: 1024px){
+
+.depicter-revert .depicter-1-section-21 .depicter-section-background{
+	background-color:#000000;
+}
+.depicter-revert .depicter-1-section-23 .depicter-section-background{
+	background-color:#000000;
+}
+.depicter-revert .depicter-1-section-26 .depicter-section-background{
+	background-color:#000000;
+}
+
+}
+/***** Mobile *****/
+@media screen and (max-width: 767px){
+
+.depicter-revert .depicter-1-section-21 .depicter-section-background{
+	background-image:radial-gradient(circle at center, #000000 0%, #000000 100%);
+}
+.depicter-revert .depicter-1-section-23 .depicter-section-background{
+	background-color:#000000;
+}
+.depicter-revert .depicter-1-section-26 .depicter-section-background{
+	background-color:#000000;
+}
+
+}

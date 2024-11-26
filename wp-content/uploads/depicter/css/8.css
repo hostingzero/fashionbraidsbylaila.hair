@@ -1,0 +1,72 @@
+
+.depicter-revert .depicter-8-element-11{
+	border-width:2px;
+	border-style:solid;
+	border-color:#AAAAAA;
+	border-radius:50% 50% 50% 50%;
+}
+.depicter-8-element-11 .depicter-symbol-container{
+	fill:#000000;
+}
+.depicter-revert .depicter-8-element-12{
+	border-width:2px;
+	border-style:solid;
+	border-color:#AAAAAA;
+	border-radius:50% 50% 50% 50%;
+}
+.depicter-8-element-12 .depicter-symbol-container{
+	fill:#000000;
+}
+.depicter-revert .depicter-8-element-40{
+	font-size:52px;
+	color:#007745;
+	font-family:"Luxurious Script";
+	font-weight:400;
+	transform:scaleX(1) scaleY(1);
+	background-color:transparent;
+}
+.depicter-revert .depicter-8-section-16 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-8-element-41{
+	font-size:52px;
+	color:#007745;
+	font-family:"Luxurious Script";
+	font-weight:400;
+	background-color:transparent;
+}
+.depicter-revert .depicter-8-section-29 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+
+/***** Tablet *****/
+@media screen and (max-width: 1024px){
+
+.depicter-revert .depicter-8-element-40{
+	color:#007745;
+}
+
+}
+/***** Mobile *****/
+@media screen and (max-width: 767px){
+
+.depicter-8-element-11 .depicter-symbol-container{
+	fill:#000000;
+}
+.depicter-8-element-12 .depicter-symbol-container{
+	fill:#000000;
+}
+.depicter-revert .depicter-8-element-40{
+	color:#007745;
+}
+.depicter-revert .depicter-8-section-16 .depicter-section-background{
+	background-color:#000000;
+}
+.depicter-revert .depicter-8-element-41{
+	color:#007745;
+}
+.depicter-revert .depicter-8-section-29 .depicter-section-background{
+	background-color:#000000;
+}
+
+}
